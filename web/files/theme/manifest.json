@@ -1,53 +1,23 @@
- {
+{	
 	"responsive": true,
-	"glyph-icons": true,
+	"tmpSocialIconFont": true,
 	"enableEditorJS": true,
-	"description": "Unite is a classic with some impressive accessories. Always in style, Unite delivers subtle, yet impressive design elements with neutral backgrounds that set the tone for a range of beautiful website building options.",
-	"features": [
-		"responsive",
-		"css-buttons",
-		"social-icons",
-		"full-width-header",
-		"navigation-side",
-		"boxed-header",
-		"color-palettes"
-	],
-	"variations": [
-		{
-			"value": "light",
-			"sample": "#ffffff",
-			"is-dark": false
-		},
-		{
-			"value": "dark",
-			"sample": "#000000",
-			"is-dark": true
-		}
-	],
-	"custom-options" : [
-        {
-            "name" : "sticky-nav",
-            "title": "Fixed Navigation",
-            "type" : "toggle",
-            "default" : false,
-			"is-body-class" : true,
-			"is-less-var" : false
-        },
-        {
-            "name" : "full-width",
-            "title": "Full Width",
-            "type" : "toggle",
-            "default" : true,
-			"is-body-class" : true,
-			"is-less-var" : false
-        },
-        {
-            "name" : "header-scroll-animate",
-            "title": "Animate Header Scroll",
-            "type" : "toggle",
-            "default" : false,
-			"is-body-class" : true,
-			"is-less-var" : false
+    "description": "Dusk gives your website an extra wash of color and sophisticated design elements. The professional palettes and fixed navigation allow your content and brand to remain beautifully positioned on all pages.",
+    "features": [
+        "responsive",
+        "css-buttons",
+        "social-icons",
+        "full-width-header",
+        "navigation-center",
+        "color-palettes"
+    ],
+	"header-conversions": {
+        "user-id": "80949722",
+        "site-id": "257722725841023307",
+        "page-types": {
+            "tall-header": "182696249289782808",
+            "short-header": "895187021643854757",
+            "landing": "541898120227826840"
         }
-	]
+    }
 }
